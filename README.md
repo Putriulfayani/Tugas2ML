@@ -8,8 +8,8 @@
 
 # Studi Kasus
 
-- Klasifikasi Diabetes berdasarkan glucose & skinthickness
-- Prediksi Score berdasarkan jam belajar siswa
+- Tentang tanggapan masyarakat mengenai mobil listrik
+- prediksi harga mobil bekas yang berada di Kendari
 
 # Dataset
 
